@@ -1,21 +1,21 @@
 ---
 hero:
-  title: dumi-site
-  desc: dumi-site site example
+  title: 个人收藏夹
+  desc: 主要收录了个人项目、技能、日常阅读内容
   actions:
-    - text: Getting Started
-      link: /components
+    - text: 开始阅读->
+      link: /projects
 features:
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
-    title: Feature 1
-    desc: Balabala
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/d60657df-0822-4631-9d7c-e7a869c2f21c/k79dmz3q_w126_h126.png
-    title: Feature 2
-    desc: Balabala
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
-    title: Feature 3
-    desc: Balabala
-footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
+  - icon: /images/projects.png 
+    title: 各类项目
+    desc: 本篇记录了个人开发的各种项目或Demo，进行技术代码沉淀。
+  - icon: /images/algorithm.png 
+    title: 数据结构与算法
+    desc: 本篇介绍了基础的数据结构并分类介绍了相关的算法题，方面学习与积累，
+  - icon: /images/article.png
+    title: 好文推荐
+    desc: 本篇记录了日常阅读到的比较好的文章，特此推荐！
+
+footer: Open-source MIT Licensed | Copyright © 2020-zhaownehao
 ---
 
-## Hello dumi-site!
