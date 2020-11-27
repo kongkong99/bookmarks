@@ -1,5 +1,10 @@
 import { Children } from "react";
 
+const formatMenus = (baseUrl, lists) => {
+  return lists.map(item => `${baseUrl}${item}.md`)
+}
+
+
 export default {
   title: 'awesome-bookmarks',
   favicon: '/images/logo.png',
@@ -33,6 +38,20 @@ export default {
         title: '堆',
         children: ['structure/heap/index.md']
       },
+    ],
+    '/algorithm': [
+      {
+        title: '排序专题',
+        children: formatMenus(
+          'algorithm/sorts/',
+          ['index', 'insertSort', 'bubbleSort', 'selectSort', 'quickSort', 'mergeSort']
+        )
+      },
+      // {
+      //   title: '数组',
+      //   children: ['structure/array/index.md']
+      // },
+
     ]
   }
 }
