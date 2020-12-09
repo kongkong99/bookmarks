@@ -75,6 +75,20 @@ export default {
           ['index', '二分法', '二维数组中的查找', '盛最多水的容器', '最接近的三数之和', '丑数']
         )
       },
+      {
+        title: '滑动窗口',
+        children: formatMenus(
+          'algorithm/slidewindow/',
+          ['index', '连续子数组的最大和', '和为s的连续正数序列', '股票的最大利润', '最长不含重复字符的子字符串']
+        )
+      },
+      {
+        title: '动态规划(DP)',
+        children: formatMenus(
+          'algorithm/DP/',
+          ['index', '最长回文子串', '剪绳子', 'n个骰子的点数']
+        )
+      },
     ]
   }
 }

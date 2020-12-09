@@ -67,23 +67,22 @@
 - [剑指 Offer 49. 丑数【三指针】](https://leetcode-cn.com/problems/chou-shu-lcof/solution/jian-zhi-offer-49-chou-shu-by-kong-kong-z/) -->
 
 
-### 滑动窗口
+<!-- ### 滑动窗口
 
 - [剑指 Offer 57 - II. 和为 s 的连续正数序列【滑动窗口】](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/jian-zhi-offer-57-ii-he-wei-sde-lian-xu-zheng-s-16/)
 - [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/solution/jian-zhi-offer-42-lian-xu-zi-shu-zu-de-zui-da-h-23/)
 - [剑指 Offer 48. 最长不含重复字符的子字符串【滑动窗口】](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/jian-zhi-offer-48-zui-chang-bu-han-zhong-fu-zi--10/)
-- [剑指 Offer 63. 股票的最大利润【滑动窗口】](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/solution/jian-zhi-offer-63-gu-piao-de-zui-da-li-run-by-kong/)
-- [3. 无重复字符的最长子串【滑动窗口】](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/3-wu-zhong-fu-zi-fu-de-zui-chang-zi-chuan-hua-d-10/)
+- [剑指 Offer 63. 股票的最大利润【滑动窗口】](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/solution/jian-zhi-offer-63-gu-piao-de-zui-da-li-run-by-kong/) -->
 
 
-### 动态规划
+<!-- ### 动态规划
 
-- [剑指 Offer 60. n 个骰子的点数【动态规划】](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/solution/jian-zhi-offer-60-nge-tou-zi-de-dian-shu-by-kong-k/)
-- [剑指 Offer 14- I. 剪绳子【动态规划】](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/jian-zhi-offer-14-i-jian-sheng-zi-by-kong-kong-z/)
 - [最长回文子串【动态规划】](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/5-zui-chang-hui-wen-zi-chuan-by-kong-kong-z/)
-- [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+- [剑指 Offer 14- I. 剪绳子【动态规划】](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/solution/jian-zhi-offer-14-i-jian-sheng-zi-by-kong-kong-z/)
+- [剑指 Offer 60. n 个骰子的点数【动态规划】](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/solution/jian-zhi-offer-60-nge-tou-zi-de-dian-shu-by-kong-k/)
+
 - [机器人的运动范围]()
-- [礼物的最大价值]()
+- [礼物的最大价值]() -->
 
 
 
