@@ -56,7 +56,6 @@
 
 - [剑指 Offer 55 - I. 二叉树的深度【递归】](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/jian-zhi-offer-55-i-er-cha-shu-de-shen-du-by-kong-/)
 
-
 ### 双指针
 
 - [16. 最接近的三数之和【双指针】](https://leetcode-cn.com/problems/3sum-closest/solution/16-zui-jie-jin-de-san-shu-zhi-he-by-kong-kong-z/)
@@ -66,14 +65,12 @@
 
 - [剑指 Offer 49. 丑数【三指针】](https://leetcode-cn.com/problems/chou-shu-lcof/solution/jian-zhi-offer-49-chou-shu-by-kong-kong-z/) -->
 
-
 <!-- ### 滑动窗口
 
 - [剑指 Offer 57 - II. 和为 s 的连续正数序列【滑动窗口】](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/jian-zhi-offer-57-ii-he-wei-sde-lian-xu-zheng-s-16/)
 - [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/solution/jian-zhi-offer-42-lian-xu-zi-shu-zu-de-zui-da-h-23/)
 - [剑指 Offer 48. 最长不含重复字符的子字符串【滑动窗口】](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/jian-zhi-offer-48-zui-chang-bu-han-zhong-fu-zi--10/)
 - [剑指 Offer 63. 股票的最大利润【滑动窗口】](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/solution/jian-zhi-offer-63-gu-piao-de-zui-da-li-run-by-kong/) -->
-
 
 <!-- ### 动态规划
 
@@ -83,8 +80,6 @@
 
 - [机器人的运动范围]()
 - [礼物的最大价值]() -->
-
-
 
 ### 数据结构
 
@@ -97,11 +92,13 @@
 ### 栈
 
 - [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/solution/jian-zhi-offer-31-zhan-de-ya-ru-dan-chu-xu-lie-1-2/)
-- []()
-- []()
+- [包含 min 函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)
+- [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
 - []()
 
 ### 队列
+
+- [滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
 
 ### 链表
 
