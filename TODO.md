@@ -89,12 +89,12 @@
 
 - [剑指 Offer 48. 最长不含重复字符的子字符串【滑动窗口】](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/solution/jian-zhi-offer-48-zui-chang-bu-han-zhong-fu-zi--10/)
 
-### 栈
+<!-- ### 栈
 
 - [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/solution/jian-zhi-offer-31-zhan-de-ya-ru-dan-chu-xu-lie-1-2/)
 - [包含 min 函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)
 - [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
-- []()
+- []() -->
 
 ### 队列
 
@@ -110,11 +110,11 @@
 
 ### 二叉树 [前序遍历、中序遍历、后续遍历]
 
-- [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/jian-zhi-offer-28-dui-cheng-de-er-cha-shu-by-kong-/)
-- [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/jian-zhi-offer-55-ii-ping-heng-er-cha-shu-by-kong-/)
+<!-- - [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/jian-zhi-offer-28-dui-cheng-de-er-cha-shu-by-kong-/)
+- [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/jian-zhi-offer-55-ii-ping-heng-er-cha-shu-by-kong-/) -->
+
 - [剑指 Offer 27. 二叉树的镜像【BFS】](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/solution/jian-zhi-offer-27-er-cha-shu-de-jing-xiang-by-kong/)
 - [二叉搜索树的第 k 大节点【遍历】](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/solution/jian-zhi-offer-54-er-cha-sou-suo-shu-de-di-kda-1-5/)
 - [剑指 Offer 32 - I. 从上到下打印二叉树【BFS】](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/solution/jian-zhi-offer-32-i-cong-shang-dao-xia-da-yin-e-13/)
 - [剑指 Offer 55 - I. 二叉树的深度【递归】](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/jian-zhi-offer-55-i-er-cha-shu-de-shen-du-by-kong-/)
 - [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/jian-zhi-offer-07-zhong-jian-er-cha-shu-by-kong-ko/)
-- []()
