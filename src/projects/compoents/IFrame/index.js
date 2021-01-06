@@ -12,8 +12,26 @@ class IFrame extends React.Component {
   }
 
   render() {
-    const { width = '100%', height = 500, src = '' } = this.props;
-    return <iframe id="" width={width} height={height} src={src}></iframe>;
+    const {
+      width = '100%',
+      minWidth,
+      height = 800,
+      src = '',
+      id = '',
+    } = this.props;
+    if (!src) return null;
+    return (
+      <div style={{ width, height }} className="iframe-wrapper">
+        <iframe
+          id=""
+          width={width}
+          height={height - 15}
+          src={src}
+          className="custom-iframe"
+          style={{ minWidth: minWidth || width }}
+        ></iframe>
+      </div>
+    );
   }
 }
 
